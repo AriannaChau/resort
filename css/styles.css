@@ -1,23 +1,38 @@
 h1 {
-  color:  #900C3F;
+  color:   #ff5722;
 
 }
 
 h2 {
-  font-style: bold;
+  font-style: italic;
 
-  color:  #4fc3f7;
+  color:   #f44336;
 }
 
 p {
-  color:  #4caf50;
+  color:   #0097a7;
 }
 
 ul {
-  color:  #4caf50;
+  color:   #0097a7;
 }
 
 body {
-  background-color: #DAF7A6;
+  background-color:  #fff176;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  text-decoration: none;
 }
+
+a:link    {
+  /* Applies to all unvisited links */
+  text-decoration:  none;
+  font-weight:      bold;
+  color:            #29b6f6;
+  }
+
+  a:visited {
+    /* Applies to all visited links */
+    text-decoration:  none;
+    font-weight:      bold;
+    color:             #e91e63;
+    }
