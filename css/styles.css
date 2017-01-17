@@ -1,0 +1,23 @@
+h1 {
+  color:  #900C3F;
+
+}
+
+h2 {
+  font-style: bold;
+
+  color:  #4fc3f7;
+}
+
+p {
+  color:  #4caf50;
+}
+
+ul {
+  color:  #4caf50;
+}
+
+body {
+  background-color: #DAF7A6;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
