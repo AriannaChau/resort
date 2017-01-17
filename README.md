@@ -1,4 +1,4 @@
-# Global Resorts Retreat Site
+# [Global Resorts Retreat Site](https://jessica-wabbit.github.io/resort-website/)
 #### HTML Document Exercise for Epicodus, 01.16.2017
 #### By **Jessica Robertson**
 ## Description
